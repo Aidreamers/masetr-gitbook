@@ -2,7 +2,7 @@
 
 | 目标表中文字段    | 目标表英文字段                    | 目标类型           | 是否为空     | 主键   | 说明                                       |
 | ---------- | -------------------------- | -------------- | -------- | ---- | ---------------------------------------- |
-| 企业经营指标值标识符 | COMPY_FACTOR_OPERATION_SID | NUMBER(16)     | NOT NULL | PK   | 业务主键：COMPANY_ID, EXPOSURE_SID, FACTOR_CD, NOTICE_DT, RPTDT,   CLIENTID |
+| 企业经营指标值标识符 | **COMPY_FACTOR_OPERATION_SID** | NUMBER(16)     | NOT NULL | PK   | 业务主键：COMPANY_ID, EXPOSURE_SID, FACTOR_CD, NOTICE_DT, RPTDT,   CLIENTID |
 | 企业标识符      | COMPANY_ID                 | NUMBER(16)     | NOT NULL |      |                                          |
 | 敞口标识符      | EXPOSURE_SID               | NUMBER(16)     | NOT NULL |      |                                          |
 | 指标代码       | FACTOR_CD                  | VARCHAR2(30)   | NOT NULL |      |                                          |

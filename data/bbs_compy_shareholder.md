@@ -38,7 +38,7 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-   CREATE TABLE
+    CREATE TABLE
     COMPY_SHAREHOLDER
     (
         COMPY_SHAREHOLDER_SID NUMBER NOT NULL,

@@ -12,7 +12,7 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-CREATE TABLE
+    CREATE TABLE
     LKP_REGION
     (
         REGION_CD NUMBER(20) NOT NULL,

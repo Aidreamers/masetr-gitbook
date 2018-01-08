@@ -23,8 +23,8 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-   CREATE TABLE
-   COMPY_SECRISKINDEX
+    CREATE TABLE
+    COMPY_SECRISKINDEX
     (
         COMPY_SECRISKINDEX_SID NUMBER(16) NOT NULL,
         NOTICE_DT DATE,

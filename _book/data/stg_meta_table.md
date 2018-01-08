@@ -13,7 +13,7 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-CREATE TABLE
+    CREATE TABLE
     META_TABLE
     (
         META_TABLE_SID NUMBER(20) NOT NULL,

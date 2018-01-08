@@ -2,7 +2,7 @@
 
 | 目标表中文字段   | 目标表英文字段            | 类型             | 是否为空     | 主键   | 备注                                       |
 | --------- | ------------------ | -------------- | -------- | ---- | ---------------------------------------- |
-| 证券内码标识符   | SECINNER_ID        | number(16)     | NOT NULL | PK   | SEQ_SECURITY                             |
+| 证券内码标识符   | **SECINNER_ID**    | number(16)     | NOT NULL | PK   | SEQ_SECURITY                             |
 | 债券代码      | SECURITY_CD        | VARCHAR2(20)   | NOT NULL |      |                                          |
 | 债券全称      | SECURITY_NM        | VARCHAR2(300)  | NOT NULL |      |                                          |
 | 债券名称      | SECURITY_SNM       | VARCHAR2(200)  |          |      |                                          |

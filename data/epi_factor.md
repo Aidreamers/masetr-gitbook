@@ -28,7 +28,7 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-   CREATE TABLE
+    CREATE TABLE
     FACTOR
     (
         FACTOR_CD VARCHAR2(30) NOT NULL,

@@ -15,7 +15,7 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-CREATE TABLE
+    CREATE TABLE
     CLIENT_BASICINFO
     (
         CLIENT_ID NUMBER(16) NOT NULL,

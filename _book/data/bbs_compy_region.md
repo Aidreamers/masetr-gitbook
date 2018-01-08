@@ -14,7 +14,7 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-   CREATE TABLE
+    CREATE TABLE
     COMPY_REGION
     (
         COMPANY_ID NUMBER(16) NOT NULL,

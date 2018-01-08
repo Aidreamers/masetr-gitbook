@@ -17,7 +17,7 @@
 
 <!--sec data-title="DDL" data-id="section1" data-show=true ces-->
 
-CREATE TABLE
+    CREATE TABLE
     META_COLUMN
     (
         META_COLUMN_SID NUMBER(20) NOT NULL,
